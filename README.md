@@ -10,8 +10,9 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | https://www.alura.com.br/challenges/data-science-2?host=https://cursos.alura.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+
+![](https://www.pngitem.com/pimgs/m/207-2073884_work-in-progress-computer-hd-png-download.png#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+...
